@@ -6,5 +6,5 @@ This Rust project implements a simple spell checker using the Wagner-Fischer alg
 
 ## Screenshot
 <br>
-    <img src="https://github.com/jaypatel208/wagner-fischer-rust/assets/83394162/e6c0fcd0-3965-4860-8b7f-d98b400e1630" alt="Algo success run" align="center" width="280" height="247">
+    <img src="https://github.com/jaypatel208/wagner-fischer-rust/assets/83394162/e6c0fcd0-3965-4860-8b7f-d98b400e1630" alt="Algo success run" align="center" width="475" height="264">
 <br>
